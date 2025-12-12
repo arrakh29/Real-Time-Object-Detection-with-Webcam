@@ -75,5 +75,7 @@ python mainprogram.py --webcam-only --model mobilenetv2 --cam-index 0
 - Coba kurangi `--batch` jika memori terbatas; ubah `--cam-index` sesuai kamera yang dipakai.
   
 ## **Hasil**
-<img src="Documentation/Designsystem.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+<img src="Hasil/Picture1.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+<img src="Hasil/Picture2.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+<img src="Hasil/Picture3.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
 
