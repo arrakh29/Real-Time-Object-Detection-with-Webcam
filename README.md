@@ -73,3 +73,7 @@ python mainprogram.py --webcam-only --model mobilenetv2 --cam-index 0
 - Pastikan setiap kelas punya cukup gambar sebelum split.
 - Gunakan GPU jika tersedia; script otomatis memilih `cuda` jika ada.
 - Coba kurangi `--batch` jika memori terbatas; ubah `--cam-index` sesuai kamera yang dipakai.
+  
+## **Hasil**
+<img src="Documentation/Designsystem.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+
